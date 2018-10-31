@@ -6,6 +6,21 @@ tags: [reading]
 date: 2018-10-18 14:23:22
 mathjax: false
 ---
+# 2018-10-30
+
+## [Five Interview Questions to Predict a Good Data Scientist](https://medium.com/predict/five-interview-questions-to-predict-a-good-data-scientist-40d310cdcd68)
+
+想找`数据科学`的相关岗位, 看看招聘者是如何总结的.
+
+1. 要么有较高的文聘, 要么有特定领域有多年的经验.
+2. 有较好的编码能力.
+3. 对机器学习的基础知识有较好的掌握.
+4. 对数据科学的热情, 是否参加过比赛, 会议发言, 写书或文章.
+5. 方法论的形成, 失败后的总结.
+6. 对新问题的数据建模问题.
+
+
+
 # 2018-10-26
 
 https://weibo.com/1402400261/GEmL0cQoc
